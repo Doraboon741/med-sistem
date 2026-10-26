@@ -1,0 +1,8 @@
+{
+    "agents": [
+        "grok_build"
+    ],
+    "mcp": true,
+    "nightwatch": false,
+    "sail": false
+}
